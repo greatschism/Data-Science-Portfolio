@@ -1,8 +1,10 @@
-Data-Science-Portfolio
+# Data-Science-Portfolio
+
+
 
 This is a WIP!
 
-My portfolio of selected Data Science Projects that I completed for Rutgers Data Analytics/Big Data. In this portfolio, the projects are in the form of iPython Notebooks and R markdown.
+My portfolio of selected Data Science Projects that I completed for Rutgers Data Analytics/Big Data. In this portfolio, the projects are in iPython Notebooks and R markdown.
 
 
 ## Contents
