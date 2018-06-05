@@ -3,4 +3,4 @@
 *
 # Except this file
 !.gitignore
-!/C5T1/
+!C5T1/
